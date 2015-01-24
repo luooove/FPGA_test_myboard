@@ -4,7 +4,7 @@ JedecChain;
 	DefaultMfr(6E);
 
 	P ActionCode(Cfg)
-		Device PartName(EP2C5T144) Path("E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/output_files/") File("test_new_broad.sof") MfrSpec(OpMask(1));
+		Device PartName(EP2C5T144) Path("C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/output_files/") File("test_new_broad.sof") MfrSpec(OpMask(1));
 
 ChainEnd;
 

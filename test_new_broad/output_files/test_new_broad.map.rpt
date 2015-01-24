@@ -1,5 +1,5 @@
 Analysis & Synthesis report for test_new_broad
-Sat Jan 24 20:36:59 2015
+Sat Jan 24 20:46:33 2015
 Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Full Version
 
 
@@ -42,7 +42,7 @@ applicable agreement for further details.
 +----------------------------------------------------------------------------------+
 ; Analysis & Synthesis Summary                                                     ;
 +------------------------------------+---------------------------------------------+
-; Analysis & Synthesis Status        ; Successful - Sat Jan 24 20:36:59 2015       ;
+; Analysis & Synthesis Status        ; Successful - Sat Jan 24 20:46:33 2015       ;
 ; Quartus II 64-Bit Version          ; 13.0.0 Build 156 04/24/2013 SJ Full Version ;
 ; Revision Name                      ; test_new_broad                              ;
 ; Top-level Entity Name              ; test_new_broad                              ;
@@ -161,14 +161,14 @@ applicable agreement for further details.
 +----------------------------+-------------+
 
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-; Analysis & Synthesis Source Files Read                                                                                                                                         ;
-+----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------+---------+
-; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                           ; Library ;
-+----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------+---------+
-; test_new_broad.v                 ; yes             ; User Verilog HDL File  ; E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/test_new_broad.v ;         ;
-; clk.v                            ; yes             ; User Verilog HDL File  ; E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/clk.v            ;         ;
-+----------------------------------+-----------------+------------------------+----------------------------------------------------------------------------------------+---------+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+; Analysis & Synthesis Source Files Read                                                                                                                                      ;
++----------------------------------+-----------------+------------------------+-------------------------------------------------------------------------------------+---------+
+; File Name with User-Entered Path ; Used in Netlist ; File Type              ; File Name with Absolute Path                                                        ; Library ;
++----------------------------------+-----------------+------------------------+-------------------------------------------------------------------------------------+---------+
+; test_new_broad.v                 ; yes             ; User Verilog HDL File  ; C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/test_new_broad.v ;         ;
+; clk.v                            ; yes             ; User Verilog HDL File  ; C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/clk.v            ;         ;
++----------------------------------+-----------------+------------------------+-------------------------------------------------------------------------------------+---------+
 
 
 +-------------------------------------------------------+
@@ -248,7 +248,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 +----------------+--------------+
 ; Partition Name ; Elapsed Time ;
 +----------------+--------------+
-; Top            ; 00:00:01     ;
+; Top            ; 00:00:00     ;
 +----------------+--------------+
 
 
@@ -258,7 +258,7 @@ Note: For table entries with two numbers listed, the numbers in parentheses indi
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Analysis & Synthesis
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Full Version
-    Info: Processing started: Sat Jan 24 20:36:55 2015
+    Info: Processing started: Sat Jan 24 20:46:32 2015
 Info: Command: quartus_map --read_settings_files=on --write_settings_files=off test_new_broad -c test_new_broad
 Info (20030): Parallel compilation is enabled and will use 4 of the 4 processors detected
 Info (12021): Found 1 design units, including 1 entities, in source file test_new_broad.v
@@ -275,9 +275,9 @@ Info (21057): Implemented 58 device resources after synthesis - the final resour
     Info (21059): Implemented 8 output pins
     Info (21061): Implemented 48 logic cells
 Info: Quartus II 64-Bit Analysis & Synthesis was successful. 0 errors, 1 warning
-    Info: Peak virtual memory: 456 megabytes
-    Info: Processing ended: Sat Jan 24 20:36:59 2015
-    Info: Elapsed time: 00:00:04
+    Info: Peak virtual memory: 458 megabytes
+    Info: Processing ended: Sat Jan 24 20:46:33 2015
+    Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
 

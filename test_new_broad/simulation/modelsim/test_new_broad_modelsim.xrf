@@ -1,7 +1,7 @@
 vendor_name = ModelSim
-source_file = 1, E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/test_new_broad.v
-source_file = 1, E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/clk.v
-source_file = 1, E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/db/test_new_broad.cbx.xml
+source_file = 1, C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/test_new_broad.v
+source_file = 1, C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/clk.v
+source_file = 1, C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/db/test_new_broad.cbx.xml
 design_name = test_new_broad
 instance = comp, \m1|Add0~2 , m1|Add0~2, test_new_broad, 1
 instance = comp, \m1|Add0~4 , m1|Add0~4, test_new_broad, 1

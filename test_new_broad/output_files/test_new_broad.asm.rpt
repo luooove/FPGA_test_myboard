@@ -1,5 +1,5 @@
 Assembler report for test_new_broad
-Sat Jan 24 20:37:11 2015
+Sat Jan 24 20:46:39 2015
 Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Full Version
 
 
@@ -10,7 +10,7 @@ Quartus II 64-Bit Version 13.0.0 Build 156 04/24/2013 SJ Full Version
   2. Assembler Summary
   3. Assembler Settings
   4. Assembler Generated Files
-  5. Assembler Device Options: E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/output_files/test_new_broad.sof
+  5. Assembler Device Options: C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/output_files/test_new_broad.sof
   6. Assembler Messages
 
 
@@ -37,7 +37,7 @@ applicable agreement for further details.
 +---------------------------------------------------------------+
 ; Assembler Summary                                             ;
 +-----------------------+---------------------------------------+
-; Assembler Status      ; Successful - Sat Jan 24 20:37:11 2015 ;
+; Assembler Status      ; Successful - Sat Jan 24 20:46:39 2015 ;
 ; Revision Name         ; test_new_broad                        ;
 ; Top-level Entity Name ; test_new_broad                        ;
 ; Family                ; Cyclone II                            ;
@@ -77,24 +77,24 @@ applicable agreement for further details.
 +-----------------------------------------------------------------------------+----------+---------------+
 
 
-+-------------------------------------------------------------------------------------------------------+
-; Assembler Generated Files                                                                             ;
-+-------------------------------------------------------------------------------------------------------+
-; File Name                                                                                             ;
-+-------------------------------------------------------------------------------------------------------+
-; E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/output_files/test_new_broad.sof ;
-+-------------------------------------------------------------------------------------------------------+
++----------------------------------------------------------------------------------------------------+
+; Assembler Generated Files                                                                          ;
++----------------------------------------------------------------------------------------------------+
+; File Name                                                                                          ;
++----------------------------------------------------------------------------------------------------+
+; C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/output_files/test_new_broad.sof ;
++----------------------------------------------------------------------------------------------------+
 
 
-+---------------------------------------------------------------------------------------------------------------------------------+
-; Assembler Device Options: E:/Luoxiaoxiang_Makerspace/Luoxiaoxiang/4STUDY/Verilog/test_new_broad/output_files/test_new_broad.sof ;
-+----------------+----------------------------------------------------------------------------------------------------------------+
-; Option         ; Setting                                                                                                        ;
-+----------------+----------------------------------------------------------------------------------------------------------------+
-; Device         ; EP2C5T144C8                                                                                                    ;
-; JTAG usercode  ; 0x00076676                                                                                                     ;
-; Checksum       ; 0x00076676                                                                                                     ;
-+----------------+----------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------+
+; Assembler Device Options: C:/Users/Xiangzi/Documents/GitHub/FPGA_test_myboard/test_new_broad/output_files/test_new_broad.sof ;
++----------------+-------------------------------------------------------------------------------------------------------------+
+; Option         ; Setting                                                                                                     ;
++----------------+-------------------------------------------------------------------------------------------------------------+
+; Device         ; EP2C5T144C8                                                                                                 ;
+; JTAG usercode  ; 0x00076676                                                                                                  ;
+; Checksum       ; 0x00076676                                                                                                  ;
++----------------+-------------------------------------------------------------------------------------------------------------+
 
 
 +--------------------+
@@ -103,14 +103,14 @@ applicable agreement for further details.
 Info: *******************************************************************
 Info: Running Quartus II 64-Bit Assembler
     Info: Version 13.0.0 Build 156 04/24/2013 SJ Full Version
-    Info: Processing started: Sat Jan 24 20:37:09 2015
+    Info: Processing started: Sat Jan 24 20:46:38 2015
 Info: Command: quartus_asm --read_settings_files=off --write_settings_files=off test_new_broad -c test_new_broad
 Info (115031): Writing out detailed assembly data for power analysis
 Info (115030): Assembler is generating device programming files
 Info: Quartus II 64-Bit Assembler was successful. 0 errors, 0 warnings
     Info: Peak virtual memory: 426 megabytes
-    Info: Processing ended: Sat Jan 24 20:37:11 2015
-    Info: Elapsed time: 00:00:02
+    Info: Processing ended: Sat Jan 24 20:46:39 2015
+    Info: Elapsed time: 00:00:01
     Info: Total CPU time (on all processors): 00:00:01
 
 
