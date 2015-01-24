@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Sat Jan 24 20:36:59 2015
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : test_new_broad
+Top-level Entity Name : test_new_broad
+Family : Cyclone II
+Total logic elements : 48
+    Total combinational functions : 48
+    Dedicated logic registers : 27
+Total registers : 27
+Total pins : 10
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

@@ -1,0 +1,69 @@
+|test_new_broad
+clk_50M => clk_50M.IN1
+reset_N => reset_N.IN1
+LED[0] <= LED[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[1] <= LED[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[2] <= LED[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[3] <= LED[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[4] <= LED[4]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[5] <= LED[5]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[6] <= LED[6]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+LED[7] <= LED[7]~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|test_new_broad|clk:m1
+clk_50M => count[0].CLK
+clk_50M => count[1].CLK
+clk_50M => count[2].CLK
+clk_50M => count[3].CLK
+clk_50M => count[4].CLK
+clk_50M => count[5].CLK
+clk_50M => count[6].CLK
+clk_50M => count[7].CLK
+clk_50M => count[8].CLK
+clk_50M => count[9].CLK
+clk_50M => count[10].CLK
+clk_50M => count[11].CLK
+clk_50M => count[12].CLK
+clk_50M => count[13].CLK
+clk_50M => count[14].CLK
+clk_50M => count[15].CLK
+clk_50M => count[16].CLK
+clk_50M => count[17].CLK
+clk_50M => count[18].CLK
+clk_50M => count[19].CLK
+clk_50M => count[20].CLK
+clk_50M => count[21].CLK
+clk_50M => count[22].CLK
+clk_50M => count[23].CLK
+clk_50M => count[24].CLK
+clk_50M => clk~reg0.CLK
+clk <= clk~reg0.DB_MAX_OUTPUT_PORT_TYPE
+reset_N => count[0].ACLR
+reset_N => count[1].ACLR
+reset_N => count[2].ACLR
+reset_N => count[3].ACLR
+reset_N => count[4].ACLR
+reset_N => count[5].ACLR
+reset_N => count[6].ACLR
+reset_N => count[7].ACLR
+reset_N => count[8].ACLR
+reset_N => count[9].ACLR
+reset_N => count[10].ACLR
+reset_N => count[11].ACLR
+reset_N => count[12].ACLR
+reset_N => count[13].ACLR
+reset_N => count[14].ACLR
+reset_N => count[15].ACLR
+reset_N => count[16].ACLR
+reset_N => count[17].ACLR
+reset_N => count[18].ACLR
+reset_N => count[19].ACLR
+reset_N => count[20].ACLR
+reset_N => count[21].ACLR
+reset_N => count[22].ACLR
+reset_N => count[23].ACLR
+reset_N => count[24].ACLR
+reset_N => clk~reg0.ACLR
+
+

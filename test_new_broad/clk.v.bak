@@ -1,0 +1,4 @@
+module clk(clk_50M,clk,reset_N);
+input clk_50M;
+input reset_N;
+output clk;

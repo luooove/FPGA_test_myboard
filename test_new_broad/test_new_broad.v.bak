@@ -1,0 +1,5 @@
+module test_new_broad(clk,rest,LED);
+input clk,rest;
+output LED;
+
+endmodule
